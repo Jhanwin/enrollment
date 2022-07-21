@@ -57,3 +57,62 @@ a:hover{
     display:none;
     
 }
+
+#enroll-title{
+    padding: 20px;
+    text-align: center;
+}
+
+#enroll-description{
+    padding:20px;
+    width: 75%;
+}
+
+#enroll-inputs{
+    padding: 30px;
+
+}
+
+.inputStyle{
+    height: 30px;
+    width: 60%;
+    border-width: 1px;
+    background: white;
+    padding: 10px;
+}
+
+.num{
+    height: 30px;
+    width: 33%;
+    padding: 10px;
+}
+
+#Birthdate{
+    height: 30px;
+    width: 33%;
+    padding: 10px;
+}
+
+#btn-submit{
+    background: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 40%;
+}
+
+#btn-submit:hover{
+    background: black;
+    color: white;
+}
+
+#btn-back{
+    background: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 20%;
+}
+
+#btn-back:hover{
+    background: black;
+    color: white;
+}
