@@ -1,0 +1,59 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    transition: 500ms;
+}
+
+#head-content{
+    display: grid;
+    grid-template-columns:50% 50%;
+    grid-gap: 1px;
+}
+
+#text-enroll{
+    padding: 15px;
+}
+
+a{
+    float: right;
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+}
+
+a:hover{
+    background: black;
+    color: white;
+}
+
+#intro{
+    height: fit-content;
+    width: fit-content;
+    padding: 20px;
+}
+
+#intro-motto{
+    width: 70%;
+    padding: 30px;
+}
+
+#btn-enroll{
+    background: white;
+    border: 1px solid black;
+    padding: 20px;
+    width: 40%;
+}
+
+#btn-enroll:hover{
+    background: black;
+    color: white;
+}
+
+
+
+
+#enrollForm-page{
+    display:none;
+    
+}
